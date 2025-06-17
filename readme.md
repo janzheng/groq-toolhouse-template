@@ -29,6 +29,30 @@ This repository contains example YAML agent files for use with [Groq Toolhouse](
 
 ## Quick Start
 
+### Clone the Repository
+
+First, clone this repository to your local machine:
+
+```bash
+gh repo clone janzheng/groq-toolhouse-template
+cd groq-toolhouse-template
+```
+
+### Install Dependencies
+
+Install the required dependencies using your preferred package manager (npm, pnpm, or yarn):
+
+```bash
+# Using npm
+npm install
+
+# Or using pnpm
+pnpm install
+
+# Or using yarn
+yarn install
+```
+
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (for installing the CLI)
 - [Groq API key](https://console.groq.com/keys). (get a [free Groq API key](https://console.groq.com/keys))

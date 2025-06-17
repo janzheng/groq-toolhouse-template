@@ -1,0 +1,4 @@
+title: "Compound Example"
+prompt: "Who are the Oilers playing against next, and when/where are they playing?"
+model: "@groq/compound-beta"
+id: bc8780e4-b86c-445f-a395-a28b65164679

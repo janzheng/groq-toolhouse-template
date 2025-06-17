@@ -1,0 +1,7 @@
+title: "Maverick Example"
+prompt: "Tell me a joke about this topic: {topic} then generate an image!"
+vars:
+  topic: "bananas"
+model: "@groq/meta-llama/llama-4-maverick-17b-128e-instruct"
+public: true
+id: d4bc11f4-f993-441e-83f1-efac294fe317

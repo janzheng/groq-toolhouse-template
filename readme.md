@@ -138,7 +138,7 @@ You can also override variables by passing a different topic when calling the ag
 
 ```bash
 curl -XPOST "https://agents.toolhouse.ai/d4bc11f4-f993-441e-83f1-efac294fe317" \
-  --json '{ "topic": "cats" }'
+  --json '{ vars: {"topic": "cats"} }'
 ```
 
 ### Calling Your Agent from Node.js

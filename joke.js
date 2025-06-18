@@ -8,7 +8,7 @@ const ENDPOINT = `https://agents.toolhouse.ai/${AGENT_ID}`;
 
 // Get topic from CLI args, default to 'bananas'
 const topic = process.argv[2] || 'bananas';
-const body = JSON.stringify({ topic });
+const body = JSON.stringify({ vars: { topic } });
 
 (async () => {
   const res = await fetch(ENDPOINT, {

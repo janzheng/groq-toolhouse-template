@@ -1,6 +1,8 @@
 # Groq Toolhouse Agent Examples
 
-**A collection of ready-to-run agent configurations for Groq Toolhouse, demonstrating how to use Groq's Compound Beta and Llama 4 Maverick models for agentic tasks.**
+[Toolhouse](https://toolhouse.ai/) is the first Backend-as-a-Service for the agentic stack, allowing you to define agents as configuration and deploy them as APIs with automatic access to 40+ tools including RAG, MCP servers, web search, webpage readers, memory, storage, and statefulness. 
+
+This repository demonstrates ready-to-run agent configurations that combine Groq's fast inference with Toolhouse, showcasing how to use Groq's Compound Beta and Llama 4 Maverick models for agentic tasks without hosting your own infrastructure.
 
 ## Live Demo
 
